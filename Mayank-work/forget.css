@@ -1,0 +1,74 @@
+.main{
+    text-align: center;
+    margin-top:100px;
+    
+    
+    
+}
+
+#border{
+    color: teal;
+    border-style: solid;
+    border-color: tale;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+}
+
+#newpwd{
+    background-color: teal;
+  width: 30%;
+  height: 40px;
+  margin-left: 60px;
+  margin-bottom: 35px;
+
+}
+
+
+
+#confirmpwd{
+  background-color:teal ;
+  width: 30%;
+  height: 40px;
+  margin-left: 40px;
+}
+#otp{
+
+  background-color:teal;
+  width: 30%;
+  height: 40px;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.submit{
+   font-size: 13px;
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: teal;
+    height: 60px;
+    margin-right: 20px;
+    text-align: center;
+    width: 15%;
+    margin-top: 10px;
+    margin-bottom: 150px;
+    cursor: pointer;
+}
+
+.border{
+    border-style: solid;
+   border-radius: 10px;
+   color: teal;
+   margin-left: 350px;
+   margin-right: 250px;
+
+}
+.heading{
+  text-align: center;
+  font-family: 'Baloo Tamma 2',cursive;
+  /*font-family: 'PT Sans',sans-serif;*/
+}

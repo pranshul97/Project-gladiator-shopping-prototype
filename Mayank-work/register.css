@@ -1,0 +1,101 @@
+.greenborder{
+    border-style: solid;    
+    border-color:teal; 
+    margin-bottom: 20px;
+    border-width: 5px;
+}
+
+.registerButton{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: teal;
+    height: 60px;
+    margin-right: 20px;
+    text-align: center;
+    width: 15%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    cursor: pointer;
+
+  }
+  .alreadyButton{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: teal;
+    height: 60px;
+    margin-right: 20px;
+    text-align: center;
+    width: 30%;
+    margin-bottom: 70px;
+    cursor: pointer;
+    
+
+  }
+  .button{
+      margin-top: 70px;
+      margin-left: 20px;
+      margin-right: 20px;
+      border-top: 5px solid teal;
+      margin-bottom: 20px;
+  }
+
+  .border2{
+      border-top: 5px solid black;
+      border-left: 5px solid black;
+      border-right: 5px solid black;
+      margin-left: 26px;
+      margin-right: 26px;  
+      margin-bottom: 0px;    }
+
+    .main{
+        text-align: center;
+       
+    
+    }
+    #name{
+      border-style: hidden;
+      background-color: teal;
+      width: 20%;
+      height: 40px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      margin-left: 70px;
+     
+  }
+
+  #number{
+    border-style: hidden;
+      background-color: teal;
+      width: 20%;
+      height: 40px;
+      margin-bottom: 30px;
+      margin-left: 30px;
+  }
+  
+  #email{
+    border-style: hidden;
+      background-color: teal;
+      width: 20%;
+      height: 40px;
+      margin-bottom: 30px;
+      margin-left: 48px;
+  }
+
+  #pwd{
+    border-style: hidden;
+      background-color: teal;
+      width: 20%;
+      height: 40px;
+      margin-bottom: 30px;
+      margin-left: 35px;
+  }
+
+  #confirmpwd{
+    border-style: hidden;
+      background-color: teal;
+      width: 20%;
+      height: 40px;
+      margin-bottom: 30px;
+      margin-left: 35px;
+      margin-right: 85px;
+  }
